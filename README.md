@@ -22,7 +22,7 @@ or just add `gem 'themis-attack-result'` to your Gemfile and run `bundle`.
 |`Themis::Attack::Result::ERR_FLAG_YOURS`|9|Submitted flag belongs to the attacking team and therefore won't be accepted|
 |`Themis::Attack::Result::ERR_FLAG_SUBMITTED`|10|Submitted flag has been accepted already|
 |`Themis::Attack::Result::ERR_FLAG_NOT_FOUND`|11|Submitted flag has not been found|
-|`Themis::Attack::Result::ERR_SERVICE_NOT_UP`|13|The attacking team service is not up and therefore flags from the same services of other teams won't be accepted|
+|`Themis::Attack::Result::ERR_SERVICE_NOT_UP`|12|The attacking team service is not up and therefore flags from the same services of other teams won't be accepted|
 
 ### Note
 `Themis::Attack::Result` is a simple [ruby-enum](https://github.com/dblock/ruby-enum) class.
