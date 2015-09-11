@@ -1,5 +1,5 @@
 # themis-attack-result
-A Ruby gem that specifies attack result constants for [Themis Attack Carrier](https://github.com/aspyatkin/themis-attack-carrier-rb).
+A Ruby gem that specifies attack result constants for [Themis Finals](https://github.com/aspyatkin/themis-finals), CTF contest checking system.
 
 ## Installation
 ```sh
@@ -26,6 +26,16 @@ or just add `gem 'themis-attack-result'` to your Gemfile and run `bundle`.
 
 ### Note
 `Themis::Attack::Result` is a simple [ruby-enum](https://github.com/dblock/ruby-enum) class.
+
+## See also
+- [themis-finals](https://github.com/aspyatkin/themis-finals)
+- [themis-finals-guidelines](https://github.com/aspyatkin/themis-finals-guidelines)
+- [themis-finals-infrastructure](https://github.com/aspyatkin/themis-finals-infrastructure)
+- [themis-attack-protocol](https://github.com/aspyatkin/themis-attack-protocol)
+- [themis-attack-py](https://github.com/aspyatkin/themis-attack-py)
+- [themis-checker-server](https://github.com/aspyatkin/themis-checker-server)
+- [themis-checker-result](https://github.com/aspyatkin/themis-checker-result)
+- [themis-checker-py](https://github.com/aspyatkin/themis-checker-py)
 
 ## License
 MIT @ [Alexander Pyatkin](https://github.com/aspyatkin)
