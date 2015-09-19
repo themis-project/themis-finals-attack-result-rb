@@ -1,7 +1,8 @@
 # themis-attack-result
 [![Latest Version](https://img.shields.io/gem/v/themis-attack-result.svg?style=flat-square)](https://rubygems.org/gems/themis-attack-result)
 [![License](https://img.shields.io/github/license/aspyatkin/themis-attack-result.svg?style=flat-square)](https://github.com/aspyatkin/themis-attack-result/blob/master/LICENSE)
-[![Dependencies status](https://img.shields.io/gemnasium/aspyatkin/themis-attack-result.svg?style=flat-square)](https://gemnasium.com/aspyatkin/themis-attack-result)  
+[![Dependencies status](https://img.shields.io/gemnasium/aspyatkin/themis-attack-result.svg?style=flat-square)](https://gemnasium.com/aspyatkin/themis-attack-result)
+[![Code Climate](https://img.shields.io/codeclimate/github/aspyatkin/themis-attack-result.svg?style=flat-square)](https://codeclimate.com/github/aspyatkin/themis-attack-result)  
 A Ruby gem that specifies attack result constants for [Themis Finals](https://github.com/aspyatkin/themis-finals), CTF contest checking system.
 
 ## Installation
