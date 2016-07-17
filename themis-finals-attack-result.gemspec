@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'themis-finals-attack-result'
-  s.version = '1.0.0'
+  s.version = '4.0.0'
   s.date = '2016-07-09'
   s.summary = 'Themis::Finals::Attack::Result constants'
   s.description = 'Themis::Finals::Attack::Result constants'
