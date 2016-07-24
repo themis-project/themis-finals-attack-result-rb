@@ -1,4 +1,4 @@
-Gem::Specification.new do |s|
+::Gem::Specification.new do |s|
   s.name = 'themis-finals-attack-result'
   s.version = '4.0.0'
   s.date = '2016-07-09'

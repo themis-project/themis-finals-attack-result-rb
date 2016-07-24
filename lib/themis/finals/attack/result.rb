@@ -4,7 +4,7 @@ module Themis
   module Finals
     module Attack
       class Result
-        include Ruby::Enum
+        include ::Ruby::Enum
 
         define :SUCCESS_FLAG_ACCEPTED, 0 # submitted flag has been accepted
 
